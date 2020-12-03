@@ -13,10 +13,10 @@ I am also a huge fan of modern web development, which includes topics like new b
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nico-martin&theme=nord)
 
-![Nicos github stats](https://github-readme-stats.vercel.app/api?username=nico-martin&theme=nord&show_icons=true)
-
 <!--
 **nico-martin/nico-martin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+![Nicos github stats](https://github-readme-stats.vercel.app/api?username=nico-martin&theme=nord&show_icons=true)
 
 Here are some ideas to get you started:
 
