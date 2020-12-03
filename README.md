@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hello, my name is Nico.
+
+I'm a frontend developer and founder of say hello, a digital agency focused on modern web developement and WordPress. Right now I am also freelancing for Valtech, where I am am working on a client portal in the e-banking area based on React.
+
+I am also a huge fan of modern web development, which includes topics like new browser capabilities (progressive web apps), frameworks (React and VueJS) as well as semantic HTML and accessibility.
 
 <!--
 **nico-martin/nico-martin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
