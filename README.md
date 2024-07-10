@@ -1,9 +1,9 @@
 # Hello, my name is Nico.
 
-I'm a [frontend developer](https://nico.dev) and founder of [say hello](https://sayhello.ch) 👋, a digital agency focused on modern web developement and WordPress.  
-Right now I am also freelancing for [aity AG](https://www.aity.ch/), where I am am working on a client portal in the e-banking area 🏦 based on React.
+I'm a [frontend developer](https://nico.dev) and Google Developer Expert for Web and AI/ML from switzerland.  
+Right now I am working for [aity AG](https://www.aity.ch/), where we create digital finance solutions mainly for [Berner Kantonalbank](https://www.bekb.ch/).
 
-I am also a huge fan of modern web development, which includes topics like new browser capabilities (progressive web apps), frameworks ([Preact](https://github.com/preactjs/preact), [React](https://github.com/facebook/react) and [VueJS](https://github.com/vuejs/vue)) as well as semantic HTML and accessibility.
+I am also a huge fan of modern web development, which includes topics like new browser capabilities (progressive web apps), frameworks ([Preact](https://github.com/preactjs/preact), [React](https://github.com/facebook/react) and [VueJS](https://github.com/vuejs/vue)) as well as semantic HTML, accessibility an on-device AI.
 
 ---
 
