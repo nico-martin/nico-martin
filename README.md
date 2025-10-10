@@ -1,9 +1,6 @@
 # Hello, my name is Nico.
 
-I'm a [frontend developer](https://nico.dev) and Google Developer Expert for Web and AI/ML from switzerland.  
-Right now I am working for [aity AG](https://www.aity.ch/), where we create digital finance solutions mainly for [Berner Kantonalbank](https://www.bekb.ch/).
-
-I am also a huge fan of modern web development, which includes topics like new browser capabilities (progressive web apps), frameworks ([Preact](https://github.com/preactjs/preact), [React](https://github.com/facebook/react) and [VueJS](https://github.com/vuejs/vue)) as well as semantic HTML, accessibility an on-device AI.
+I am an Open Source Machine Learning Engineer with focus on WebML at 🤗 Hugging Face and Google Developer Expert in AI and Web Technologies from Switzerland.
 
 ---
 
